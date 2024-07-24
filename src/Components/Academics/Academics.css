@@ -1,0 +1,35 @@
+.academics {
+  padding: 2rem;
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.curriculum-section {
+  margin-bottom: 2rem;
+}
+
+.curriculum-section h3 {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.stream {
+  margin-bottom: 1.5rem;
+}
+
+.stream h4 {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+section h2 {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
